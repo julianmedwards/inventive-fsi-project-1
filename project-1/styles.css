@@ -13,10 +13,13 @@ hr {
 }
 
 #site-logo {
+    text-align: left;
     text-decoration: none;
     color: #333;
     padding-left: 2em;
     font-weight: 400;
+    display: block;
+    font-size: 1.17em;
 }
 
 #site-logo h3 {
